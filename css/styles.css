@@ -1,0 +1,280 @@
+body {
+    font-family: "Montserrat";
+}
+
+#title {
+    background-color: #87CEEB;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+    font-family: "Montserrat-black";
+    font-size: 4.9rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+h4 {
+    color:black;
+    font-size: 1rem; 
+    font-weight: bold;
+}
+
+.image {
+    margin: auto;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-image {
+    margin-left: 18px;
+}
+
+.search-btn {
+    margin-right: 18px;
+}
+
+.search-field {
+    margin-left: 18px;
+}
+
+/* Professionl Sumamary */
+
+#Professional-Summary {
+    padding: 3% 15%;
+}
+
+h2 {
+    color: #67032F;
+    font-family: "Montserrat-black";
+    font-weight: bold;
+    margin: 5% auto;
+}
+
+.summary {
+    text-align: justify;
+}
+
+/* Skills */
+
+#Skills {
+    background-color: #F0F8FF;
+    padding: 3% auto;
+}
+
+.col {
+    margin: 15px auto;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+/* Experience */
+
+#Experience {
+    background-color: #fff;
+    padding: auto 5%;
+}
+
+.exp-img {
+    height: 100px;
+    margin: 7% auto 0;
+    width: 100px;
+}
+
+/* Education */
+
+#Education {
+    background-color: #F0F8FF;
+    padding: auto 5%;
+}
+
+.edu-card {
+    background-color: #F0F8FF;
+}
+
+.edu-img {
+    height: 100px;
+    margin: 7% auto 0;
+    width: 110px;
+}
+
+/* Publications */
+
+#Publications {
+    margin: auto auto;
+    text-align: center;
+}
+
+.pub-h3 {
+    color: #800020;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.pub-left-rows {
+    margin: 15px auto;
+    text-align: center;
+}
+
+.pub-right-column {
+    text-align: justify;
+}
+
+.pub-link {
+    text-decoration: none;
+}
+
+.pub-link:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.publication-img {
+    height: 265.64px;
+    margin: 0 auto;
+    width: 200px;
+}
+
+.publisher-img1{
+    height: 30px;
+    margin: 0 auto;
+    width: auto;
+}
+.publisher-img2{
+    height: 70px;
+    margin: 0 auto;
+    width: 90px;
+}   
+.publisher-img3{
+    height: 40px;
+    margin: 0 auto;
+    width: 150px;
+}
+.publisher-img4{
+    height: 50px;
+    margin: 0 auto;
+    width: 70px;
+}
+.publisher-img5{
+    height: 60px;
+    margin: 0 auto;
+    width: 80px;
+}
+
+.carousel-item {
+    padding: 3% 5%;
+}
+
+.carousel-indicators {
+    margin: 10% auto 0;
+}
+
+.carousel-control-prev {
+    width: 5%;
+}
+
+.carousel-control-next {
+    width: 5%;
+}
+
+/* Certifications & Awards */
+
+#Certifications {
+    background-color: #F0F8FF;
+    margin: 0 auto;
+    padding: 3% auto;
+    text-align: center;
+}
+
+.certifications-img {
+    height: 100px;
+    width: 100px;
+}
+
+.certifications-img-ifp {
+    height: 64.28px;
+    width: 100px;
+}
+
+.certifications-img-Google {
+    height: 57.50px;
+    width: 100px;
+}
+
+.certifications-img-IAENG {
+    height: 66.67px;
+    width: 100px;
+}
+
+.cert-row {
+    margin: 30px 30px;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #87CEEB;
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+}
+
+.footer-icons1 {
+    margin: 20px 20px;
+    color: #3B5998;
+}
+
+.footer-icons2 {
+    margin: 20px 20px;
+    color: #00ACEE;
+}
+
+.footer-icons3 {
+    margin: 20px 20px;
+    color: #0072B1;
+}
+
+.footer-icons4 {
+    margin: 20px 20px;
+    color: #3F729B;
+}
+
+.footer-icons5 {
+    margin: 20px 20px;
+    color: green;
+}
+
+.copyright {
+    font-family: "Montserrat-black";
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+h5 {
+    margin: 0 auto;
+}
